@@ -8,11 +8,11 @@
  <p align="center">
     ```
     AS developers, It's Always served 
-    
+ <p align="center">  
     US well to have starter code generated 
-    
+ <p align="center">  
     WITH dependencies/dev-Dependencies already in place
-
+ <p align="center">
     SO THAT we can start production and more timely develope the next React project.
     ```
  </p>
@@ -22,8 +22,11 @@
 <h2 align="center">Features</h2>
 <p align="center">
 - Babel/core
+<p align="center">
 - React 16
+<p align="center">
 - Webpack 4
+<p align="center">
 - Hot Module Replacement
 </p>
 
@@ -42,8 +45,8 @@
 
 
 
-<h2 align="center">Installation</h2>
-<p align="center">
+<h2>Installation</h2>
+
  ```sh
  git clone https://github.com/FernandoNunez-Dev/React-Webpack-Babel-Setup
  ```
@@ -60,7 +63,7 @@
  npm start
  ```
  visit `http://localhost:8080/`
-</p>
+
 
 - _Software Utilized_
   

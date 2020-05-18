@@ -1,9 +1,11 @@
 <p align="center">
+  [![Build Status](https://travis-ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup.svg?branch=master)](https://travis-       ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup)
   <h1 align="center">React-Webpack-Babel-Setup</h1>
 </p>
 
-<div align="center">[![Build Status](https://travis-ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup.svg?branch=master)](https://travis-ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup)
-</div>
+
+
+
 
 
  <h2 align="center">User Info</h2>

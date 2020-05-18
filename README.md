@@ -1,5 +1,6 @@
 
   [![Build Status](https://travis-ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup.svg?branch=master)](https://travis-       ci.com/FernandoNunez-Dev/React-Webpack-Babel-Setup)
+  
   <p align="center">
   <h1 align="center">React-Webpack-Babel-Setup</h1>
   </p>

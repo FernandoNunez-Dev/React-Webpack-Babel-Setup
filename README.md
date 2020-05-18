@@ -1,10 +1,10 @@
 <p align="center">
-  <h1>React-Webpack-Babel-Setup</h1>
+  <h1 align="center">React-Webpack-Babel-Setup</h1>
 </p>
 [![Build Status]]
 
 <p align="center">
- <h2>User Info</h2>
+ <h2 align="center">User Info</h2>
 
     ```
     AS developers, It's Always served 
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<h2>Features</h2>
+<h2 align="center">Features</h2>
 
 - Babel/core
 - React 16
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<h2>Recommended Tools</h2>
+<h2 align="center">Recommended Tools</h2>
 
   - The following tools are recommended for a React-Webpack-Babel project. Also you will - find included below
   - some links for building some complex UI animations and conversion of SVG image into - Data URL with the - - help of Webpack loader.
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-<h2>Installation</h2>
+<h2 align="center">Installation</h2>
 
  ```sh
  git clone https://github.com/FernandoNunez-Dev/React-Webpack-Babel-Setup

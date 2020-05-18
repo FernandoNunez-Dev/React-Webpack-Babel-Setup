@@ -47,21 +47,22 @@
 
 <h2>Installation</h2>
 
- ```sh
- git clone https://github.com/FernandoNunez-Dev/React-Webpack-Babel-Setup
- ```
+   ```sh
+   git clone https://github.com/FernandoNunez-Dev/React-Webpack-Babel-Setup
+   ```
 
- ```sh
- cd React-Webpack-Babel-Setup
- ```
+   ```sh
+   cd React-Webpack-Babel-Setup
+   ```
 
- ```sh
- npm install
- ```
+   ```sh
+   npm install
+   ```
+
+   ```sh
+   npm start
+   ```
  
- ```sh
- npm start
- ```
  visit `http://localhost:8080/`
 
 

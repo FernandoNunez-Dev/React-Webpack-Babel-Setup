@@ -5,6 +5,8 @@
 
 
  <h2 align="center">User Info</h2>
+ 
+ 
  <p align="center">
     ```
     AS developers, It's Always served 
@@ -19,7 +21,10 @@
 
 
 
+
 <h2 align="center">Features</h2>
+
+
 <p align="center">
 - Babel/core
 <p align="center">
@@ -31,11 +36,18 @@
 </p>
 
 
+
+
 <p align="center">
+  
 <h2 align="center">Recommended Tools</h2>
+
+
+
 
    The following tools are recommended for a React-Webpack-Babel project. Also you will find included below
    some links for building some complex UI animations and conversion of SVG image into Data URL with the help of Webpack        loader.
+   
 
 - [ESLint-loader](https://webpack.js.org/loaders/eslint-loader/), When using with transpiling loaders (like   babel-loader),   make sure they are in correct order(bottom to top). Otherwise files will be checked after  being processed by babel-         loader.
 - [CSS-Tricks](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/), For building complex  UI animations   in React.
@@ -45,7 +57,10 @@
 
 
 
+
 <h2>Installation</h2>
+
+
 
    ```sh
    git clone https://github.com/FernandoNunez-Dev/React-Webpack-Babel-Setup
@@ -62,8 +77,13 @@
    ```sh
    npm start
    ```
+   
+   
  
  visit `http://localhost:8080/`
+ 
+ 
+ 
 
 
 - _Software Utilized_

@@ -26,6 +26,6 @@
       "react": "^16.13.0",
       "react-dom": "^16.13.0",
       "websocket-extensions": ">=0.1.4"
-}
+
     }
   }
